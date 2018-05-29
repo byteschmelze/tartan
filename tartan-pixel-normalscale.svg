@@ -1,0 +1,93 @@
+<svg width="84" height="88" version="1.1" viewBox="0 0 84 88" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<pattern id="Breite2VertikalSchwarz" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+			<rect x="1" width="1" height="1" />
+			<rect y="1" width="1" height="1"/>
+		</pattern>
+		<pattern id="Breite2VertikalGruen" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+			<rect x="1" width="1" height="1" fill="#060"/>
+			<rect y="1" width="1" height="1" fill="#060"/>
+		</pattern>
+		<pattern id="Breite2VertikalWeiss" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+			<rect x="1" width="1" height="1" fill="#fff"/>
+			<rect y="1" width="1" height="1" fill="#fff"/>
+		</pattern>
+		<pattern id="Breite2VertikalGelb" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+			<rect x="1" width="1" height="1" fill="#fc0"/>
+			<rect y="1" width="1" height="1" fill="#fc0"/>
+		</pattern>
+		<pattern id="Breite2VertikalBlau" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+			<rect x="1" width="1" height="1" fill="#006"/>
+			<rect y="1" width="1" height="1" fill="#006"/>
+		</pattern>
+		<pattern id="Breite1VertikalSchwarz" x="0" y="0" width="1" height="2" patternUnits="userSpaceOnUse">
+			<rect x="1" width="1" height="1" />
+		</pattern>
+		
+		<pattern id="Breite2HorizontalBlau" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+			<rect width="1" height="1" fill="#006"/>
+			<rect x="1" y="1" width="1" height="1" fill="#006"/>
+		</pattern>
+		<pattern id="Breite2HorizontalWeiss" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+			<rect width="1" height="1" fill="#fff"/>
+			<rect x="1" y="1" width="1" height="1" fill="#fff"/>
+		</pattern>
+		<pattern id="Breite2HorizontalGelb" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+			<rect width="1" height="1" fill="#fc0"/>
+			<rect x="1" y="1" width="1" height="1" fill="#fc0"/>
+		</pattern>
+		<pattern id="Breite2HorizontalWeiss" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+			<rect width="1" height="1" fill="#fff"/>
+			<rect x="1" y="1" width="1" height="1" fill="#fff"/>
+		</pattern>
+		
+		<pattern id="WeisserSaumHorizontalUnten" x="0" y="0" width="2" height="1" patternUnits="userSpaceOnUse">
+			<rect x="1" width="1" height="1" fill="#fff"/>
+		</pattern>
+		
+		<pattern id="WeisserSaumVertikalRechts" x="0" y="0" width="1" height="2" patternUnits="userSpaceOnUse">
+			<rect y="0" width="1" height="1" fill="#fff"/>
+		</pattern>
+		<pattern id="WeisserSaumHorizontalOben" x="0" y="0" width="2" height="1" patternUnits="userSpaceOnUse">
+			<rect x="0" width="1" height="1" fill="#fff"/>
+		</pattern>
+		<pattern id="WeisserSaumVertikalLinks" x="0" y="0" width="1" height="2" patternUnits="userSpaceOnUse">
+			<rect y="1" width="1" height="1" fill="#fff"/>
+		</pattern>
+	</defs>
+	<rect width="84" height="88" fill="#c00"/>
+	<rect x="3" width="2" height="88" fill="url(#Breite2VertikalSchwarz)"/>
+	<rect x="9" width="4" height="88" fill="url(#Breite2VertikalGruen)"/>
+	<rect x="13" width="2" height="88" fill="url(#Breite2VertikalWeiss)"/>
+	<rect x="15" width="2" height="88" fill="url(#Breite2VertikalSchwarz)"/>
+	<rect x="17" width="2" height="88" fill="url(#Breite2VertikalGelb)"/>
+	<rect x="19" width="5" height="88" fill="url(#Breite2VertikalSchwarz)"/>
+	<rect x="24" width="2" height="88" fill="url(#Breite2VertikalBlau)"/>
+	
+	<rect x="58" width="2" height="88" fill="url(#Breite2VertikalBlau)"/>
+	<rect x="60" width="5" height="88" fill="url(#Breite2VertikalSchwarz)"/>
+	<rect x="65" width="2" height="88" fill="url(#Breite2VertikalGelb)"/>
+	<rect x="67" width="2" height="88" fill="url(#Breite2VertikalSchwarz)"/>
+	<rect x="69" width="2" height="88" fill="url(#Breite2VertikalWeiss)"/>
+	<rect x="71" width="4" height="88" fill="url(#Breite2VertikalGruen)"/>
+	<rect x="79" width="2" height="88" fill="url(#Breite2VertikalSchwarz)"/>
+	
+	<rect y="6" width="84" height="5" fill="url(#Breite2HorizontalBlau)"/>
+	<rect y="13" width="84" height="2" fill="url(#Breite2HorizontalBlau)"/>
+	<rect y="15" width="84" height="2" fill="url(#Breite2HorizontalWeiss)"/>
+	<rect y="17" width="84" height="3" fill="url(#Breite2HorizontalBlau)"/>
+	<rect y="20" width="84" height="2" fill="url(#Breite2HorizontalGelb)"/>
+	<rect y="22" width="84" height="7" fill="url(#Breite2HorizontalBlau)"/>
+	
+	<rect y="59" width="84" height="7" fill="url(#Breite2HorizontalBlau)"/>
+	<rect y="66" width="84" height="2" fill="url(#Breite2HorizontalGelb)"/>
+	<rect y="68" width="84" height="3" fill="url(#Breite2HorizontalBlau)"/>
+	<rect y="71" width="84" height="2" fill="url(#Breite2HorizontalWeiss)"/>
+	<rect y="73" width="84" height="2" fill="url(#Breite2HorizontalBlau)"/>
+	<rect y="77" width="84" height="5" fill="url(#Breite2HorizontalBlau)"/>
+	
+	<rect y="87" x="1" width="83" height="1" fill="url(#WeisserSaumHorizontalUnten)"/>
+	<rect x="83" width="1" height="87" fill="url(#WeisserSaumVertikalRechts)"/>
+	<rect y="0" x="0" width="83" height="1" fill="url(#WeisserSaumHorizontalOben)"/>
+	<rect y="1" x="0" width="1" height="87" fill="url(#WeisserSaumVertikalLinks)"/>
+</svg>
